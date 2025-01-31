@@ -6,8 +6,8 @@ char* welcome() {
 
 int main() {
     int g, h, s;
-    s = g + h;
     scanf("%d,%d",&g,&h);
+    s = g + h;
     printf("Sum: ",s);
     return 0;
 }
