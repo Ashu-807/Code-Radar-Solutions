@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    const pi = 3.14;
+    const float pi = 3.14;
     float r,s;
     scanf("%f",&r);
     s = (float)(pi*r*r);
